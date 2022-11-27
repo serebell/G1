@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/проекты/ThirdApp/bin/Debug/net7.0/ThirdApp
+/Users/sserebell/Desktop/проекты/ThirdApp/bin/Debug/net7.0/ThirdApp.deps.json
+/Users/sserebell/Desktop/проекты/ThirdApp/bin/Debug/net7.0/ThirdApp.runtimeconfig.json
+/Users/sserebell/Desktop/проекты/ThirdApp/bin/Debug/net7.0/ThirdApp.dll
+/Users/sserebell/Desktop/проекты/ThirdApp/bin/Debug/net7.0/ThirdApp.pdb
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.AssemblyInfo.cs
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.dll
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/refint/ThirdApp.dll
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.pdb
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ThirdApp.genruntimeconfig.cache
+/Users/sserebell/Desktop/проекты/ThirdApp/obj/Debug/net7.0/ref/ThirdApp.dll

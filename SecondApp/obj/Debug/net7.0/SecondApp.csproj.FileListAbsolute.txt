@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/проекты/SecondApp/bin/Debug/net7.0/SecondApp
+/Users/sserebell/Desktop/проекты/SecondApp/bin/Debug/net7.0/SecondApp.deps.json
+/Users/sserebell/Desktop/проекты/SecondApp/bin/Debug/net7.0/SecondApp.runtimeconfig.json
+/Users/sserebell/Desktop/проекты/SecondApp/bin/Debug/net7.0/SecondApp.dll
+/Users/sserebell/Desktop/проекты/SecondApp/bin/Debug/net7.0/SecondApp.pdb
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.AssemblyInfo.cs
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.dll
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/refint/SecondApp.dll
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.pdb
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/SecondApp.genruntimeconfig.cache
+/Users/sserebell/Desktop/проекты/SecondApp/obj/Debug/net7.0/ref/SecondApp.dll
